@@ -1,0 +1,76 @@
+# Translation of Plugins - Mir Ad Network - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Mir Ad Network - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Mir Ad Network - Development (trunk)\n"
+
+#: includes/ad-approval.php:58
+msgid "Rejected Successfully!!"
+msgstr ""
+
+#: includes/ad-approval.php:56
+msgid "Approved Successfully!!"
+msgstr ""
+
+#: includes/ad-approval.php:49
+msgid "Sorry, you dont have permission to perform this action."
+msgstr ""
+
+#: includes/ad-settings.php:32
+msgid "Updated"
+msgstr ""
+
+#: includes/ad-settings.php:23
+msgid "Only Numbers are allowed!"
+msgstr ""
+
+#: includes/add-ad-slots.php:196
+msgid "[MAN-"
+msgstr ""
+
+#: includes/add-wallet-address.php:121 includes/ad-approval.php:111
+msgid "No data yet!!"
+msgstr ""
+
+#: includes/add-wallet-address.php:59
+msgid "Label or Address already exists"
+msgstr ""
+
+#: includes/add-wallet-address.php:57
+msgid "Invalid Address"
+msgstr ""
+
+#: includes/add-wallet-address.php:55
+msgid "Updated Successfully!!"
+msgstr ""
+
+#: includes/add-wallet-address.php:53
+msgid "Added Successfully!!"
+msgstr ""
+
+#: includes/add-wallet-address.php:26
+msgid "Deleted Successfully!!"
+msgstr ""
+
+#: mir-ad-network.php:66
+msgid "Every one min"
+msgstr ""
+
+#. Description of the plugin
+msgid "Peer-to-Peer Ad Network using the Mir blockchain"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://t.me/mirplatform"
+msgstr ""
+
+#. Plugin Name of the plugin
+msgid "Mir Ad Network"
+msgstr ""
